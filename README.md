@@ -17,5 +17,6 @@ dm me on discord if you have any problems with the mod Husky#9424
 
 # Inspiration
 this mod was inspired by the Finger guns mod on boneworks made by gnonme
-https://boneworks.thunderstore.io/package/gnonme/
 <pre>
+https://boneworks.thunderstore.io/package/gnonme/
+
