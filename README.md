@@ -5,6 +5,7 @@ Shoot balls from your hands!
 # Controls
 
 -Left Grip + Left Secondary to Shoot balls out of your Left hand
+
 -Right Grip + Right Secondary to Shoot balls out of your Right hand
 
 # Features
