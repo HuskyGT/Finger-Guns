@@ -6,7 +6,7 @@ Shoot balls from your hands!
 
 Left Grip + Left Secondary to Shoot balls out of your Left hand
 Right Grip + Right Secondary to Shoot balls out of your Right hand
-<pre>
+
 # Features
 -Haunted Mod Menu Support 💹
 -Requires Utilla 💹
